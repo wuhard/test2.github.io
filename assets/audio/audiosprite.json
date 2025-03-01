@@ -1,0 +1,56 @@
+{
+  "urls": [
+    "../assets/audio/audiosprite.mp3",
+    "../assets/audio/audiosprite.ogg"
+  ],
+  "sprite": {
+    "board_cleared": [
+      0,
+      20976.326530612245
+    ],
+    "btn_press": [
+      22000,
+      179.88662131519106
+    ],
+    "matched_pieces_fx": [
+      24000,
+      1854.6938775510214
+    ],
+    "piece_select_01": [
+      27000,
+      239.99999999999844
+    ],
+    "piece_select_02": [
+      29000,
+      120.000000000001
+    ],
+    "piece_select_03": [
+      31000,
+      95.98639455782276
+    ],
+    "piece_select_04": [
+      33000,
+      144.01360544217567
+    ],
+    "pre_matched_pieces_fx": [
+      35000,
+      335.9863945578212
+    ],
+    "reshufffle": [
+      37000,
+      1358.3673469387777
+    ],
+    "soundtrack_mahjong": [
+      40000,
+      60055.51020408163
+    ],
+    "tiles_appear": [
+      102000,
+      624.0136054421725
+    ],
+    "wrong_piece_selected": [
+      104000,
+      264.0136054421731
+    ]
+  }
+}
